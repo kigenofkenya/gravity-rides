@@ -1,5 +1,5 @@
 ---
-title: 'Quantum Singularity'
+title: 'Modular (Page Inject) Demo'
 published: true
 date: '18-02-2018 13:43'
 body_classes: modular
