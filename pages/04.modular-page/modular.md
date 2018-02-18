@@ -1,10 +1,9 @@
 ---
-title: Modular Page
+title: 'Modular Page'
 onpage_menu: false
-body_classes: "modular"
-
+body_classes: modular
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         custom:
             - _cc-by
