@@ -1,7 +1,12 @@
 ---
-title: 'Modular (Page Inject)'
-published: false
+title: 'Quantum Singularity'
+published: true
+date: '18-02-2018 13:43'
 body_classes: modular
+twig_first: true
+never_cache_twig: true
+routable: true
+visible: true
 onpage_menu: false
 ---
 
